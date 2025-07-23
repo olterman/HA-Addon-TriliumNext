@@ -1,7 +1,7 @@
 # Addon Repository
 
 # About
-This is a repository for my own addons
+This is a Fork of Hypercrisis - TriliumNext Addon ... all I have done is update so that it pulls latest build. 
 
 # Support
 For project related support please visit the corresponding project site.
